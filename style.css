@@ -35,6 +35,13 @@ body {
     border: 1px solid #dddddd;
 }
 
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+}
+
 p {
     margin-bottom: 20px;
 }

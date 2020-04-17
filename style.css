@@ -71,8 +71,6 @@ footer {
 
 
 
-
-/* 
 @media screen and (max-width: 375px){
     *{
         overflow-y: scroll;
@@ -82,7 +80,7 @@ footer {
         position: relative;
         bottom: 0px;
     }
-
+ 
     .navbar-brand {
         border: solid 1px gray;
         background-color: cyan;
@@ -95,4 +93,4 @@ footer {
     p {
         float: left;
     }
-} */
+}
